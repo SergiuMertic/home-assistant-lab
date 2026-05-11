@@ -29,8 +29,6 @@ It is part of my IT and cybersecurity learning journey, focusing on real-world L
 
 ## 🏗️ Home Lab Architecture (Advanced View)
 
-This diagram shows my Home Assistant home lab infrastructure:
-
 ```mermaid
 flowchart TD
     A[Internet Router] --> B[Linux Home Server]
@@ -48,8 +46,3 @@ flowchart TD
 
     F --> K[Time-based Rules]
     F --> L[Presence-based Automation]
-
-/docs
-├── architecture.md
-├── network-diagram.md
-├── setup-guide.md
