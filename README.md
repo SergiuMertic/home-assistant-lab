@@ -46,3 +46,8 @@ flowchart TD
 
     F --> K[Time-based Rules]
     F --> L[Presence-based Automation]
+- Network segmentation (IoT vs main devices)
+- Linux server administration
+- Secure remote access
+- Service hosting and automation
+- Real-world troubleshooting scenarios
